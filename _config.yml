@@ -1,0 +1,8 @@
+title: "Tejasvir Singh"
+description: "BBA FinTech student at NMIMS Mumbai | Finance | Excel | Leadership | Student Activities"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+show_downloads: false
+google_analytics:
